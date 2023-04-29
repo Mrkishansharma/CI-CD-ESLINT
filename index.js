@@ -1,2 +1,2 @@
-let str  = 'ok'
-console.log('bye'+str);
+const str = "ok";
+console.log("bye" + str);
